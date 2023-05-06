@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I am Dina 👋
+# About Me
+A 3rd year Computer Engineering student who is very passionate about Robotics and Technology!
+- 🔭 I’m currently working on state estimation and localization for a self-driving car with AAM team.
+- 🌱 I’m currently learning mobile robotics systems and artificial intelligence. 
+- 💬 Ask me about Robotics
+- 📫 How to reach me: dinaashraf20003@gmail.com 
 
-<!--
-**dinaashraf20003/dinaashraf20003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me: 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dina-ashraf-b98753222/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
