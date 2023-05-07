@@ -37,7 +37,7 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
   <a href="https://www.rcjegypt.org/">
     <img src="https://static.wixstatic.com/media/551cc9_22a6f289d1da486b85c66e40182a2553~mv2.png/v1/fill/w_260,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rcj%20new%20logo.png" alt="CSS" width="60" height="60"/>&nbsp;
   </a>
-  <a href="https://aast.edu/en/centers/ric/contenttemp.php?page_id=41100002">
+  <a href="https://aast.edu/en/centers/ric/index.php">
     <img src="https://media.licdn.com/dms/image/C4D0BAQGUdjvlNavtiw/company-logo_200_200/0/1638994540589?e=2147483647&v=beta&t=hBwKW1q2I5ClrvfnTUWC0KvPE0ln9Oql_e6agmm9vIY" alt="CSS" width="80" height="60"/>&nbsp;
   </a>
    <a href="https://rovegypt.com/">
