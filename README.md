@@ -14,7 +14,9 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="CSS" width="50" height="50"/>&nbsp;
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="CSS" width="50" height="50"/>&nbsp;
+  </a>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="CSS" width="50" height="50"/>&nbsp;
