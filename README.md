@@ -29,28 +29,28 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
   <a href="https://www.learnjavaonline.org/">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>      
-  <a href="https://www.learn-c.org/">
+  <a href="https://releases.ubuntu.com/18.04/">
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.learn-c.org/">
+  <a href="https://matlabacademy.mathworks.com/">
     <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="CSS" width="50" height="50"/>&nbsp;
   </a>          
-  <a href="https://www.learn-c.org/">
+  <a href="https://learn.unity.com/">
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>            
-  <a href="https://www.learn-c.org/">
+  <a href="https://www.raspberrypi.org/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.learn-c.org/">
+  <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.learn-c.org/">
+  <a href="http://wiki.ros.org/Documentation/">
     <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.png" alt="CSS" width="70" height="50"/>&nbsp;
   </a> 
-  <a href="https://www.learn-c.org/">
+  <a href="https://classic.gazebosim.org/tutorials/">
     <img src="https://classic.gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" alt="CSS" width="40" height="50"/>&nbsp;
   </a>  
-  <a href="https://www.learn-c.org/">
+  <a href="https://learn.turtlebot.com/">
     <img src="https://avatars.githubusercontent.com/u/4962836?s=280&v=4" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
 </div>
