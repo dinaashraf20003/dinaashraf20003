@@ -29,7 +29,7 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
   <img src="https://avatars.githubusercontent.com/u/4962836?s=280&v=4" alt="CSS" width="50" height="50"/>&nbsp;
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaashraf20003&layout=compact&Cache-Control=no-cache)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaashraf20003&layout=compact)
 
 
 ### Organizations:
