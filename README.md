@@ -20,13 +20,13 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
   <a href="https://www.learn-cpp.org/">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.learn-c.org/">
+  <a href="https://www.learncs.org/">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>    
-  <a href="https://www.learn-c.org/">
+  <a href="https://www.learnpython.org/">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>    
-  <a href="https://www.learn-c.org/">
+  <a href="https://www.learnjavaonline.org/">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>      
   <a href="https://www.learn-c.org/">
