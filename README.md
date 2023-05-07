@@ -30,3 +30,14 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaashraf20003&layout=compact)
+
+
+### Organizations:
+<div id="Organizationss">
+  <a href="https://www.rcjegypt.org/">
+    <img src="https://static.wixstatic.com/media/551cc9_22a6f289d1da486b85c66e40182a2553~mv2.png/v1/fill/w_260,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rcj%20new%20logo.png" alt="CSS" width="60" height="60"/>&nbsp;
+  </a>
+   <a href="https://rovegypt.com/">
+    <img src="https://photos-images.active.com/file/3/1/original/0c/3b/0c3b14e1-126d-4854-9bbf-39b6f5ea60fc.jpg" alt="CSS" width="80" height="60"/>&nbsp;
+  </a>
+</div>
