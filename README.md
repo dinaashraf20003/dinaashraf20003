@@ -55,7 +55,7 @@ A 3rd year Computer Engineering student from Egypt, who is very passionate about
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaashraf20003)
+
 
 
 ### Organizations:
