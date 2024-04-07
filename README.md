@@ -7,7 +7,7 @@ A Computer Engineering student from Egypt, who is very passionate about Robotics
 
 ### Connect with me: 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dina-ashraf-b98753222/">
+  <a href="https://www.linkedin.com/in/dina-ashraf-hemdan/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
 </div>
