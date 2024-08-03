@@ -1,8 +1,8 @@
 ### Hi, I am Dina 👋
-A Computer Engineering student from Egypt, who is very passionate about Robotics and Technology!
-- 🔭 I’m currently working on state estimation and localization for a self-driving car with AAM team.
-- 🌱 I’m currently learning mobile robots systems and artificial intelligence. 
-- 💬 Ask me about Robotics
+A Computer Engineering student from Egypt, who is very passionate about AI and Technology!
+  - 🔭 I’m currently working on improving my software development skills through trainings and hands on  projects.
+- 🌱 I’m currently learning Web Development and Artificial Intelligence. 
+- 💬 Ask me about Software Development and Robotics.
 - 📫 How to reach me: dinaashraf20003@gmail.com 
 
 ### Connect with me: 
