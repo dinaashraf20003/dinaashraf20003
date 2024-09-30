@@ -55,9 +55,6 @@ A Computer Engineering student from Egypt, who is very passionate about AI and T
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaashraf20003&layout=compact)](https://github.com/dinaashraf20003/github-readme-stats)
-
-
 ### Organizations:
 <div id="Organizationss">
   <a href="https://www.rcjegypt.org/">
