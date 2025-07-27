@@ -1,5 +1,5 @@
 ### Hi, I am Dina 👋
-A Computer Engineering student from Egypt, who is very passionate about AI and Technology!
+A Computer Engineering Fresh Grad from Egypt, who is very passionate about AI and Technology!
   - 🔭 I’m currently working on improving my software development skills through trainings and hands on  projects.
 - 🌱 I’m currently learning Web Development and Artificial Intelligence. 
 - 💬 Ask me about Software Development and Robotics.
